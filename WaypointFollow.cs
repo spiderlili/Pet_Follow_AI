@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-//a basic AI which cycle through the waypoints in the scene
+//AI to cycle through the waypoints in the scene
 
 public class WaypointFollow : MonoBehaviour{
 
